@@ -1,69 +1,81 @@
-<h1 align="left">🚀 Hey 👋 I am Jigyasa</h1>
+<h1 align="center">🚀 Hi 👋, I'm Jigyasa Bamola</h1>
 
-<p align="left">MCA Student | Data Science & ML Enthusiast | Problem Solving</p>
-
----
-
-<h2 align="left">About me</h2>
-
-<p align="left">
-💡 I build intelligent systems and scalable applications using <b>C++, Python, and JavaScript</b>, with a strong focus on <b>Machine Learning, Data Structures & Algorithms, and Real-world problem solving</b>.
-<br><br>
-🔍 Passionate about developing AI-powered solutions, including phishing detection systems, desktop assistants, and finance tracking apps with advanced DSA concepts.
-<br><br>
-🏆 Hackathon Runner-up | Research Certified | Tech Community Contributor  
-<br><br>
-📌 Always exploring AI, system design, and impactful tech innovations.
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=F75C7E&center=true&vCenter=true&width=600&lines=MCA+Student;Machine+Learning+Enthusiast;Full+Stack+Developer;DSA+Problem+Solver;Building+AI+Powered+Systems" />
+</h3>
 
 ---
-
-<h3 align="left">⚙️ Skills</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="40"/>
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="40"/>
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40"/>
-</div>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jigyasaba&show_icons=true&theme=default&cache_seconds=86400" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jigyasaba&layout=compact&theme=dracula" height="150"/>
-</div>
-
----
-
-<h3 align="center">🔥 Streak Stats</h3>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jigyasaba&theme=dracula"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20DSA-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Loves-Building%20Real%20World%20Projects-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to-Collaboration-orange?style=for-the-badge"/>
 </p>
 
 ---
 
-<h3 align="left">🌐 Connect with me</h3>
+## 🧠 About Me
 
-<div align="left">
+💡 I build **intelligent systems and scalable applications** using  
+**C++, Python, and JavaScript**  
+
+🔍 Strong focus on:
+- Machine Learning  
+- Data Structures & Algorithms  
+- Real-world problem solving  
+
+🚀 Developed:
+- 🛡️ Phishing Detection System (ML)  
+- 🤖 AI Desktop Assistant (OpenAI API)  
+- 💰 Smart Expense Tracker (DSA + Full Stack)  
+
+🏆 Hackathon Runner-up | 📜 Research Certified | 👩‍💻 Tech Community Contributor  
+
+📌 Exploring **AI Systems, Backend Engineering & Scalable Architectures**
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,mysql,html,css,git,aws" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+</p>
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jigyasaba&theme=radical&border_radius=10" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jigyasaba&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/jigyasa-bamola/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   <a href="mailto:jigyasabamola12@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
-</div>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+🚀 I love turning **real-world problems into AI-powered solutions**
