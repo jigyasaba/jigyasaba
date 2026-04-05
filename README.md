@@ -43,7 +43,7 @@
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jigyasaba&show_icons=true&theme=dracula&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jigyasaba&show_icons=true&theme=default&cache_seconds=86400" />
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jigyasaba&layout=compact&theme=dracula" height="150"/>
 </div>
 
